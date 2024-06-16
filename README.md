@@ -1,4 +1,4 @@
 # SanMarcoConecta
-## Proyecto de IoT
+## Proyecto de HCI
 
-Reconocimiento de usuario según su rostro y carnet o dni
+Reconocimiento de usuario según su rostro y carnet de estudiante o DNI.
