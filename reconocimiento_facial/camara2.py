@@ -65,7 +65,7 @@ ventana = tk.Tk()
 ventana.title("Captura de Imágenes")
 
 # Crear un lienzo para mostrar el video
-canvas = tk.Canvas(ventana, width=640, height=480)
+canvas = tk.Canvas(ventana, width=1300, height=750)
 canvas.pack()
 
 # Botón de captura
