@@ -1,0 +1,9 @@
+BASE DE DATOS - CREDENCIALES
+- Hostname: dpg-cq1iuqo8fa8c73f7ds50-a
+- Port: 5432
+- Database: sanmarcosconecta_db
+- Username: grupo2_hci
+- Password: 6WojlEWp1wCrmpHgg4hmItcHauzHro3k
+- Internal database URL: postgresql://grupo2_hci:6WojlEWp1wCrmpHgg4hmItcHauzHro3k@dpg-cq1iuqo8fa8c73f7ds50-a/sanmarcosconecta_db
+- External database URL: postgresql://grupo2_hci:6WojlEWp1wCrmpHgg4hmItcHauzHro3k@dpg-cq1iuqo8fa8c73f7ds50-a.oregon-postgres.render.com/sanmarcosconecta_db
+- PSQL Command: PGPASSWORD=6WojlEWp1wCrmpHgg4hmItcHauzHro3k psql -h dpg-cq1iuqo8fa8c73f7ds50-a.oregon-postgres.render.com -U grupo2_hci sanmarcosconecta_db
